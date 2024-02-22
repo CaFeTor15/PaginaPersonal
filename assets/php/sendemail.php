@@ -18,5 +18,5 @@
 <html lang="en-US">
 <head>
 	<script>alert("Gracias por contactar conmigo. Te responderé lo más rápido posible".);</script>
-	<meta HTTP-EQUIV="REFRESH" content="0; url=http://127.0.0.1:5500/index.html">
+	<meta HTTP-EQUIV="REFRESH" content="0; url=https://cafetor15.github.io/PaginaPersonal">
 </head>
