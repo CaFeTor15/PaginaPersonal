@@ -726,7 +726,7 @@ section {
 }
 
 .contact .info .email:hover i,
-.contact .info .address:hover i,
+.contact .info .whatsApp:hover i,
 .contact .info .phone:hover i {
     background: #149ddd;
     color: #fff;
